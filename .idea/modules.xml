@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Currency Exchange.iml" filepath="$PROJECT_DIR$/.idea/Currency Exchange.iml" />
       <module fileurl="file://$PROJECT_DIR$/limitsService/limitsService.iml" filepath="$PROJECT_DIR$/limitsService/limitsService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-server/spring-cloud-config-server.iml" filepath="$PROJECT_DIR$/spring-cloud-config-server/spring-cloud-config-server.iml" />
     </modules>
   </component>
 </project>
